@@ -1,6 +1,6 @@
 package com.company;
 // Zadanie 3
-// Lukasz Madej
+// Lukasz Made
 import java.util.Scanner;
 
 public class Zadanie3 {
