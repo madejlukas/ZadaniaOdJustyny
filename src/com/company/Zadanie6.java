@@ -1,5 +1,5 @@
 package com.company;
-
+// Kalkulator
 import java.util.Scanner;
 
 public class Zadanie6 {
